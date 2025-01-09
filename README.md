@@ -2,7 +2,7 @@
 
 The **SpyCatAgency** project is an application for managing spy cats, their missions and targets. The system allows you to
 track missions, assign cats to missions, manage target statuses and much more
-## Стек технологий
+## Technology stack
 
 - **FastAPI** - create RESTful API
 - **SQLAlchemy** - for work with DB
