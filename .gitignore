@@ -124,6 +124,7 @@ config/credentials.json
 
 *.json
 *.xls;xlsx;csv
+*.db
 
 experiments.py
 
