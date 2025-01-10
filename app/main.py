@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from .database import Base, engine
-from .routes import cats, missions
+from app.database import Base, engine
+from app.routes import cats, missions
 
 Base.metadata.create_all(bind=engine)
 

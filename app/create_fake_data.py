@@ -2,7 +2,6 @@ import random
 
 from faker import Faker
 from fastapi import Depends
-from sqlalchemy import func
 from sqlalchemy.orm import Session
 from database import SessionLocal, get_db
 from models import Mission, Target, SpyCat
