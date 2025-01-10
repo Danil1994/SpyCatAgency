@@ -23,8 +23,9 @@ git clone https://github.com/Danil1994/SpyCatAgency.git
 ### 3. Install dependencies
 ```commandline
 pip install -r requirements.txt
+```
+```commandline
 pip install "fastapi[standard]"
-
 ```
 
 ### 4. Launching the project
