@@ -40,7 +40,7 @@ Interactive API docs will be available at  http://127.0.0.1:8000/docs
 To generate fake cats and missions, you can use the create_fake_data.py command. 
 This script will create 10-15 fake cats and 5 fake missions:
 ```commandline
-python app/create_fake_data.py
+python -m app.create_fake_data
 ```
 
 ## Project structure
