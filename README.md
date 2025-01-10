@@ -26,19 +26,14 @@ pip install -r requirements.txt
 pip install "fastapi[standard]"
 
 ```
-### 5. Set up the database
-The project uses SQLite by default, and the database will be automatically created in the project root.
 
-Run the command to initialize the database:
-```commandline
-python -m app.database
-```
-
-### 6. Launching the project
+### 4. Launching the project
 To launch the FastAPI server, use the command:
 ```commandline
 fastapi dev app/main.py
 ```
+This command also create SQLite DB automatically.
+
 Interactive API docs will be available at  http://127.0.0.1:8000/docs
 
 ### Generating Fake Data
