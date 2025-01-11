@@ -68,4 +68,4 @@ You can download the Postman collection to test all API endpoints from the follo
 
 [Load Postman Collection for SpyCatAgency](https://drive.google.com/file/d/1Ted1asIQleSXcvmYxK0PG5rF-Kln87SP/view?usp=drive_link)
 
-With this collection, you can easily test all API endpoints.
+With this collection, you can easily test all API endpoints. Import this file in your Postman and test it.
